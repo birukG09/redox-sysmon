@@ -86,7 +86,7 @@ Fully configurable per module with runtime options
 
 Clone the repository:
 
-git clone https://github.com/birukG09/walia-rx.git
+git clone https://github.com/birukG09/Redox Sysmon.git
 cd walia-rx
 
 
@@ -113,3 +113,4 @@ Submit a pull request with a clear description
 📄 License
 
 Distributed under MIT License. See LICENSE for details.
+
